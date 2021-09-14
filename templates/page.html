@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang=en>
+  <head>
+    {{ template "head.html" }}
+  </head>
+  <title>
+    {{ index .Meta "title" }}
+  </title>
+  <body>
+  <main>
+    <header>
+      <a href=/>
+        <img src="/static/logo.png" alt="forlater.email logo" height="70" width="70"/>
+      </a>
+    </header>
+    <article align="left">
+      <h1>{{ index .Meta "title" }}</h1>
+      {{ .Body }}
+    </article>
+  </main>
+  <footer>
+    {{ template "footer.html" }}
+  </footer>
+</body>
+
+</html>
