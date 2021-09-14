@@ -6,6 +6,8 @@ subtitle: Email-based bookmarking service.
 
 Email-based bookmarking service.
 
+**NOTICE**: it's not up yet!
+
 ### save it for later
 
 *TL;DR*: Send a link to `save@forlater.email` to get started!
