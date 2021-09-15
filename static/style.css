@@ -1,5 +1,5 @@
 :root {
-  --bg: #fff;
+  --bg: #f4f4f4;
   --cyan: #509c93;
   --light-gray: #eee;
   --gray: #6a6a6a;
@@ -43,10 +43,10 @@ main h2, h3 {
 }
 
 .logo {
-  width: 75%;
-  margin: 50px auto 50px auto;
-  padding: 50px 0 20px 0;
-  display: block;
+  width: 100%;
+  text-align: center;
+  padding: 0;
+  margin: 0;
 }
 
 .footer img {
@@ -61,7 +61,8 @@ main h2, h3 {
 
 .footer span {
   display: inline-block;
-  padding: 0;
+  padding: 0 0 0 10px;
+  margin-top: 10px;
   word-wrap: break-word;
 }
 
@@ -69,11 +70,8 @@ a {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  text-decoration: none;
   word-wrap: break-word;
-}
-
-a::visited {
-  color: var(--cyan);
 }
 
 main a {
@@ -181,7 +179,7 @@ nav {
 }
 
 header {
-  padding-bottom: 20px;
+  padding-bottom: 40px;
 }
 
 hr {
@@ -192,12 +190,8 @@ hr {
 
 footer {
   border-top: 1.5px solid;
-  margin: 20px 0 20px 10px;
-  padding-top: 10px;
-}
-
-footer a {
-  text-decoration: underline;
+  margin: 20px 0 40px 10px;
+  padding-top: 30px;
 }
 
 .post-date {
@@ -213,4 +207,14 @@ blockquote p {
   color: var(--darker);
   padding-left: 20px;
   border-left: 3px solid var(--gray);
+}
+
+.big {
+  font-size: 40px;
+  text-align: center;
+}
+
+.subbig {
+  font-size: 25px;
+  text-align: center;
 }
