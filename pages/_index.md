@@ -10,6 +10,11 @@ forlater is an email-based bookmarking service. You send us an
 email with a link (or links), and receive a readable, clutter-free
 version of the article in an email.
 
+This is a *"paid service"* -- you just pay how much ever you want via
+[Liberapay](https://liberapay.com/icyphox/donate). I insist that you try
+it out before you pay; you can better gauge how much value you derive
+from forlater. It's completely fine if you don't want to pay too!
+
 ## how does it work?
 
 Easy. Do this:
@@ -55,10 +60,6 @@ email. Some pages might not get parsed properly; if you're trying to
 save pages that don't primarily have much text, it probably won't work
 very well.
 
-I might consider making this paid once I'm convinced I'm not the only
-user, but I really don't want to integrate payment code. If only
-Liberapay had an API!
-
 ## FAQs
 
 They're not really that frequent.
@@ -94,10 +95,6 @@ under (A)GPL. See:
 
 ### you keep saying 'we'; how many of you are there?!
 
-I'm just [one guy](https://icyphox.sh). 'We' just sounds right.
-Feel free to email me at x@icyphox.sh to report any issues.
-
-### I'm super rich and I'd love to give you all my money!
-
-Sure thing. Click here:
-[![liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/icyphox/donate)
+I'm just [one guy](https://icyphox.sh). 'We' just sounded right, I
+guess.  Feel free to email me at [x@icyphox.sh](mailto:x@icyphox.sh) to
+report any issues.
