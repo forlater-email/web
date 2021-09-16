@@ -23,9 +23,11 @@ Easy. Do this:
   whatever.
 - Compose an email using any mail client to `save@forlater.email` with
   the link in the body. The subject doesn't matter.
+- On desktop, you can use the Firefox/Chrome [browser
+  add-on](https://github.com/forlater-email/save-forlater/releases/tag/1.1).
 - Hit send and give it a moment.
 
-All emails are both `text/html` and `text/plain`. The plaintext is
+All pages are sent as both `text/html` and `text/plain`. The plaintext is
 optimized for maximum readability, with all images and links converted
 to footnotes. The HTML is minimally styled, and should look fine in just
 about any mail client.
