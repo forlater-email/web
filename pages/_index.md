@@ -12,7 +12,7 @@ version of the article in an email.
 
 This is a *"paid service"* -- you just pay how much ever you want via
 [Liberapay](https://liberapay.com/icyphox/donate). I insist that you try
-it out before you pay; you can better gauge how much value you derive
+it out before you do; you can better gauge how much value you derive
 from forlater. It's completely fine if you don't want to pay too!
 
 ## how does it work?
