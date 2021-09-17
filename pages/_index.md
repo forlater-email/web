@@ -1,5 +1,5 @@
 ---
-template: page.html
+template: index.html
 title: forlater.email
 subtitle: email-based bookmarking service
 ---
@@ -24,7 +24,7 @@ Easy. Do this:
 - Compose an email using any mail client to `save@forlater.email` with
   the link in the body. The subject doesn't matter.
 - On desktop, you can use the Firefox/Chrome [browser
-  add-on](https://github.com/forlater-email/save-forlater/releases/tag/1.1).
+  add-ons](/add-ons).
 - Hit send and give it a moment.
 
 All pages are sent as both `text/html` and `text/plain`. The plaintext is
@@ -62,41 +62,3 @@ email. Some pages might not get parsed properly; if you're trying to
 save pages that don't primarily have much text, it probably won't work
 very well.
 
-## FAQs
-
-They're not really that frequent.
-
-### how is this better than Pocket?
-
-Let's see...
-
-- You own your data. It lives right in your inbox!
-- You don't need yet another account or app. Just simple email.
-- We're open source!
-
-That said, Pocket has a full-fledged engineering team working on it, so
-their article parsing is probably better.
-
-### are you tracking me?!
-
-Nope. You can audit our code [here](https://github.com/forlater-email).
-However, for the moment, we're using [Mailjet](https://mailjet.com) for
-outbound email. All tracking is turned off, and we only use the SMTP
-relay.
-
-I'd really like to move away from them and host my own server, in
-the near future.
-
-### are you open source?
-
-Yes, as mentioned previously (twice!), we are open source -- licensed
-under (A)GPL. See:
-
-- https://github.com/forlater-email
-- https://git.icyphox.sh/forlater
-
-### you keep saying 'we'; how many of you are there?!
-
-I'm just [one guy](https://icyphox.sh). 'We' just sounded right, I
-guess.  Feel free to email me at [x@icyphox.sh](mailto:x@icyphox.sh) to
-report any issues.

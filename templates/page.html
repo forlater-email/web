@@ -9,23 +9,16 @@
   <body>
   <main>
     <header>
-      <div class="logo">
-      <a href=/>
-        <img src="/static/logo.png" alt="forlater.email logo" height="100" width="100"/>
-      </a>
-      </div>
-      <h1 class="big">forlater<span style="color:
-                 #509c93">.email</span><span style="font-size:
-                         24px"> (beta)</span></h1>
-      <h2 class="subbig">{{ index .Meta "subtitle" }}</h2>
+      {{ template "nav.html" }}
     </header>
     <article align="left">
+      <h1>{{ index .Meta "title" }}</h1>
       {{ .Body }}
     </article>
   </main>
-  <!--  <footer>
+<!--  <footer>
     {{ template "footer.html" }}
-    </footer>!-->
+    </footer>-->
 </body>
 
 </html>
