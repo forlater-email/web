@@ -10,16 +10,21 @@ forlater is an email-based bookmarking service. You send us an
 email with a link (or links), and receive a readable, clutter-free
 version of the article in an email.
 
-This is a *"paid service"* -- you just pay how much ever you want via
-[Liberapay](https://liberapay.com/icyphox/donate). I insist that you try
-it out before you do; you can better gauge how much value you derive
-from forlater. It's completely fine if you don't want to pay too!
+This is a *"paid service"* -- you just pay how much ever you want via:
+
+- [Liberapay](https://liberapay.com/icyphox/donate) (recurring)
+- [Ko-fi](https://ko-fi.com/icyphox) (one-time)
+- BTC: `3DLkSNkWugYUzh5A5WyhB5J9untA9sUrDX` (not preferred)
+
+I insist that you try it out before you do; you can better gauge how
+much value you derive from forlater. It's completely fine if you don't
+want to pay too!
 
 ## how does it work?
 
 Easy. Do this:
 
-- Grab a link. Copy it to your clipboard, use your phone's share-menu,
+- Grab a link. Copy it to your clipboard; use your phone's share-menu,
   whatever.
 - Compose an email using any mail client to `save@forlater.email` with
   the link in the body. The subject doesn't matter.
