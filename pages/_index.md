@@ -1,7 +1,7 @@
 ---
 template: index.html
-title: forlater.email
-subtitle: email-based bookmarking service
+title: forlater.email — email-based bookmarking
+subtitle: an email-based bookmarking service
 ---
 
 ## what?
