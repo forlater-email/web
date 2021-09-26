@@ -67,3 +67,9 @@ email. Some pages might not get parsed properly; if you're trying to
 save pages that don't primarily have much text, it probably won't work
 very well.
 
+## contact
+
+If you're having issues of any kind (didn't receive your saved link;
+link didn't render correctly; etc.), please feel free to email me with
+relevant details at [x@icyphox.sh](mailto:x@icyphox.sh) and I'll be
+happy to take a look.
