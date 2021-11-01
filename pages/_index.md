@@ -67,6 +67,10 @@ email. Some pages might not get parsed properly; if you're trying to
 save pages that don't primarily have much text, it probably won't work
 very well.
 
+All that said, forlater is generally *feature complete*. I'm its biggest
+user and it does everything I need. You are free to suggest features,
+but I probably won't implement them unless I myself find it useful.
+
 ## contact
 
 If you're having issues of any kind (didn't receive your saved link;
