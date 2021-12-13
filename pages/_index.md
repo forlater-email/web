@@ -4,6 +4,10 @@ title: forlater.email — email-based bookmarking
 subtitle: an email-based bookmarking service
 ---
 
+**NOTICE 2021-12-13**: The mailer service is undergoing some
+maintenance and might cause drops in mail delivery. Apologies for the
+inconvenience caused.
+
 ## what?
 
 forlater is an email-based bookmarking service. You send us an
