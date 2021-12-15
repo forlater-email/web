@@ -28,12 +28,8 @@ their article parsing is probably better.
 ## are you tracking me?!
 
 Nope. You can audit our code [here](https://github.com/forlater-email).
-However, for the moment, we're using [Mailgun](https://mailgun.com) for
-outbound email. All tracking is turned off, and we only use the SMTP
-relay.
-
-I'd really like to move away from them and host my own server, in
-the near future.
+The email ID, and the link you saved are both logged for easier
+debugging.
 
 ## are you open source?
 
@@ -46,5 +42,5 @@ under (A)GPL. See:
 ## you keep saying 'we'; how many of you are there?!
 
 I'm just [one guy](https://icyphox.sh). 'We' just sounded right, I
-guess.  Feel free to email me at [x@icyphox.sh](mailto:x@icyphox.sh) to
+guess. Feel free to email me at [x@icyphox.sh](mailto:x@icyphox.sh) to
 report any issues.
